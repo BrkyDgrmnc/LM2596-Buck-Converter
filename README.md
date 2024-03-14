@@ -19,6 +19,6 @@ Modül üzerindeki ters akım koruması, yanlış bağlantıların neden olduğu
 <br/>
 
 ## PCB Görselleri <br/>
-<img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/f6753b40-885f-42c1-b075-3c7fdd29a677" height="300">
-<img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/17818eb4-4dee-425d-a53b-bd6b147737a6" height="300"><br/>
+<img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/f6753b40-885f-42c1-b075-3c7fdd29a677" height="250">
+<img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/17818eb4-4dee-425d-a53b-bd6b147737a6" height="250"><br/>
 <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/3106543a-6e49-4fbf-93a7-1fdd4c3d784d" height="300"><br/>
